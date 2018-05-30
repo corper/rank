@@ -1,5 +1,5 @@
 # Rank
-一个基于Bitcoin Cash的内容挖掘协议
+一个基于Bitcoin Cash的内容挖掘协议。
 
 ## 目的
 
